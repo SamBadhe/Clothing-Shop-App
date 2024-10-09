@@ -3,6 +3,9 @@
 ## Overview
 The Clothing Shop App is a feature-rich mobile application built using Flutter. It provides users with a seamless shopping experience, allowing them to browse products, manage their cart, and make purchases. The app incorporates various authentication methods and offers a customizable interface to enhance user engagement.
 
+## Live Demo
+Check out the live version of the Clothing Shop App [here](https://flutter-app-1811.web.app/).
+
 ## Major Features
 
 - *Authentication Methods*
@@ -75,7 +78,7 @@ To run the Clothing Shop App locally, follow these steps:
    - For iOS, place the `GoogleService-Info.plist` file in the `ios/Runner` directory.
   
 4. **Run Pub Get**
-   bash
+   ```bash
    flutter pub get
 
 5. *Run the App*
